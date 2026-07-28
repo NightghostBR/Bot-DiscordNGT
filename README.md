@@ -29,7 +29,7 @@ Traga a administração do seu servidor para a palma da sua mão através do Dis
 
 Para manter o nosso repositório organizado, todos os tutoriais, guias de instalação, lista de permissões e configurações do XML foram movidos para a nossa **Wiki oficial**.
 
-👉 **[CLIQUE AQUI PARA ACESSAR A WIKI E APRENDER A INSTALAR](https://github.com/NightghostBR/Bot-DiscordNGT.wiki.git)** 👈
+👉 **[CLIQUE AQUI PARA ACESSAR A WIKI E APRENDER A INSTALAR](https://github.com/NightghostBR/Bot-DiscordNGT/wiki)** 👈
 
 Lá você encontrará o passo a passo completo, incluindo:
 1. Como criar o Bot no Developer Portal e obter o Token.
