@@ -21,6 +21,7 @@ Traga a administração do seu servidor para a palma da sua mão através do Dis
 * 📡 **Console Interativo:** Leia os logs do servidor e envie comandos diretamente de um canal seguro no Discord.
 * 📊 **Painel de Status em Tempo Real:** Embed visual que mostra se o servidor está online/offline, mapa atual, jogadores online e atualiza tudo automaticamente.
 * 💀 **Kill Feed Detalhado:** Canal exclusivo narrando as mortes do servidor (PvP, zumbis e atropelamentos).
+* 📖 **Lista de Jogadores:** Existe 2 tipos, o `/botlist` que e disponível para todos usarem, e o `/botlistadm` que pode ser utilizado para ver os jogadores + SteamID
 * 🎨 **100% Customizável:** Todos os textos, mensagens de aviso, canais e IDs são facilmente configuráveis via arquivo XML.
 
 ---
